@@ -1,6 +1,7 @@
 # Script-for-windows-
 Script for windows. This repository is display script to perform repetitive windows tasks just by opening a file. The purpose is to stop entering command in the CMD.
-<a https://en.wikipedia.org/wiki/Cmd.exe" target="_blank"> <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="CMD" width="35" height="35" /> </a>
+
+<p><a https://en.wikipedia.org/wiki/Cmd.exe" target="_blank"> <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="CMD" width="35" height="35" /> </a></p>
 
 ## MyIpS.bat :eyes:
 Show the IP of the PC interfaces.
